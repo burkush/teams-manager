@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teams-manager/static/css/main.6cdfffba.css",
+    "main.js": "/teams-manager/static/js/main.07661b6a.js",
+    "static/media/maleProfile.jpg": "/teams-manager/static/media/maleProfile.657c4196488ead649e93.jpg",
+    "static/media/femaleProfile.jpg": "/teams-manager/static/media/femaleProfile.48d77dc2519df08d5cc5.jpg",
+    "index.html": "/teams-manager/index.html",
+    "main.6cdfffba.css.map": "/teams-manager/static/css/main.6cdfffba.css.map",
+    "main.07661b6a.js.map": "/teams-manager/static/js/main.07661b6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cdfffba.css",
+    "static/js/main.07661b6a.js"
+  ]
+}
